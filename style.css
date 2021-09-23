@@ -43,7 +43,7 @@ h1, h3
 }
 .topArea
 {
-  background-image: url('background.jpg');
+  background-image: url("https://raw.githubusercontent.com/CB235/cb235.github.io/main/background.jpg");
   font-size: 20px;
   color: white;
   background-repeat: no-repeat;
